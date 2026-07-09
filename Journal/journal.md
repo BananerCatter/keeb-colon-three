@@ -13,3 +13,6 @@ Decided to do a full overhaul of the layout. Seems mostly done, i'll probably ad
 
 Screenshot:
 ![](img/2026-07-07_23-19.png)
+
+## 09/07/2026
+Trying to figure out what to do with the LED's and OLED, if I don't write anything else today, it's safe to assume i passed out at my desk :P
