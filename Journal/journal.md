@@ -16,3 +16,12 @@ Screenshot:
 
 ## 09/07/2026
 Trying to figure out what to do with the LED's and OLED, if I don't write anything else today, it's safe to assume i passed out at my desk :P
+
+## 10/07/2026
+Back from the dead! Split the schematic into multiple sheets, and added RGB. If everything is alright, I'll do the pcb soon. 
+
+Screenshots:
+![](img/2026-07-10_18-05-06.png)
+![](img/2026-07-10_18-05-19.png)
+![](img/2026-07-10_18-05-24.png)
+![](img/2026-07-10_18-05-27.png)
