@@ -2387,16 +2387,6 @@
 		)
 		(uuid "098921ca-f93b-4fd3-904a-2335033b9451")
 	)
-	(label "SDA"
-		(at -116.84 -19.685 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "13eb012e-809d-46f7-b939-2b65c0c2b36f")
-	)
 	(label "COL_6"
 		(at 184.15 34.925 0)
 		(effects
