@@ -25,3 +25,9 @@ Screenshots:
 ![](img/2026-07-10_18-05-19.png)
 ![](img/2026-07-10_18-05-24.png)
 ![](img/2026-07-10_18-05-27.png)
+
+## 13/07/2026
+So, last week was cooked :P. Schematic is done, unless I or someone else find some flaw within it. PCB should be done...sometime in the near future.
+
+Screenshot:
+![](schematic_full_v1.png)
