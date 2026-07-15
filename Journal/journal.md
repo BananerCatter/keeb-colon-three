@@ -34,3 +34,10 @@ Screenshot:
 
 ## 15/07/2026
 Added footprints, not much to screenshot tbh
+
+#### Same day, 22:05
+
+Started on the pcb, will finish layout+ add edge cuts+ route these following days, but right now I know that if I continue at my current state I'll just mess something up and ruin the whole build :P
+
+Screenshot:
+![](img/pcb_humble_beginnings.png)
