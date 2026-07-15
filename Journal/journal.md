@@ -31,3 +31,6 @@ So, last week was cooked :P. Schematic is done, unless I or someone else find so
 
 Screenshot:
 ![](schematic_full_v1.png)
+
+## 15/07/2026
+Added footprints, not much to screenshot tbh

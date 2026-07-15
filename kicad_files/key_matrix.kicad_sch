@@ -3451,7 +3451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 90.17 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -3643,7 +3643,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 238.76 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -3833,7 +3833,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 210.82 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -3913,7 +3913,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 62.23 149.225 0)
 			(hide yes)
 			(show_name no)
@@ -3995,7 +3995,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 238.76 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -4187,7 +4187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 158.115 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4379,7 +4379,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 210.82 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -4571,7 +4571,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 48.26 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -4763,7 +4763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 104.14 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -4953,7 +4953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 196.85 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -5033,7 +5033,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 224.79 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -5113,7 +5113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 196.85 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -5193,7 +5193,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 196.85 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -5273,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 238.76 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -5355,7 +5355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -5545,7 +5545,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 76.2 149.225 0)
 			(hide yes)
 			(show_name no)
@@ -5625,7 +5625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 90.17 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -5707,7 +5707,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -5897,7 +5897,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 62.23 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -5979,7 +5979,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 238.76 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -6169,7 +6169,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 210.82 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -6249,7 +6249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 252.73 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -6331,7 +6331,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 196.85 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -6523,7 +6523,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 224.79 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -6713,7 +6713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 238.76 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -6794,7 +6794,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 118.11 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -6984,7 +6984,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 48.26 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -7064,7 +7064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 62.23 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -7144,7 +7144,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 224.79 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -7224,7 +7224,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 90.17 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -7306,7 +7306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 48.26 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -7496,7 +7496,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 118.11 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -7578,7 +7578,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 62.23 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -7768,7 +7768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 90.17 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -7848,7 +7848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 238.76 149.225 0)
 			(hide yes)
 			(show_name no)
@@ -7930,7 +7930,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 182.88 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -8122,7 +8122,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 155.575 0)
 			(hide yes)
 			(show_name no)
@@ -8312,7 +8312,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 76.2 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -8394,7 +8394,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -8584,7 +8584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 151.765 39.116 0)
 			(hide yes)
 			(show_name no)
@@ -8673,7 +8673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 104.14 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -8753,7 +8753,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 238.76 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -8835,7 +8835,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 48.26 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -9027,7 +9027,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 238.76 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -9219,7 +9219,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 182.88 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -9489,7 +9489,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 48.26 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -9681,7 +9681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 104.14 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -9873,7 +9873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -10065,7 +10065,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -10255,7 +10255,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 182.88 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -10337,7 +10337,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 62.23 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -10528,7 +10528,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 118.11 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -10720,7 +10720,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 90.17 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -10912,7 +10912,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 104.14 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -11102,7 +11102,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 182.88 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -11182,7 +11182,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 118.11 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -11262,7 +11262,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 48.26 149.225 0)
 			(hide yes)
 			(show_name no)
@@ -11344,7 +11344,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 196.85 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -11534,7 +11534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 118.11 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -11616,7 +11616,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 210.82 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -11806,7 +11806,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 76.2 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -11888,7 +11888,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 196.85 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -12078,7 +12078,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 224.79 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -12158,7 +12158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 48.26 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -12240,7 +12240,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 182.88 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -12432,7 +12432,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 104.14 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -12624,7 +12624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 90.17 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -12816,7 +12816,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 62.23 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -13006,7 +13006,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 104.14 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -13086,7 +13086,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 62.23 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -13168,7 +13168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 182.88 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -13358,7 +13358,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 48.26 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -13440,7 +13440,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 224.79 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -13632,7 +13632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 62.23 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -13824,7 +13824,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 196.85 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -14016,7 +14016,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 210.82 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -14208,7 +14208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -14398,7 +14398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 210.82 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -14478,7 +14478,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 238.76 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -14560,7 +14560,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 224.79 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -14752,7 +14752,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 224.79 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -14942,7 +14942,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 196.85 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -15024,7 +15024,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 210.82 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -15216,7 +15216,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 62.23 155.575 0)
 			(hide yes)
 			(show_name no)
@@ -15406,7 +15406,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 90.17 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -15486,7 +15486,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 48.26 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -15567,7 +15567,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 118.11 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -15757,7 +15757,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 252.73 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -15839,7 +15839,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 48.26 155.575 0)
 			(hide yes)
 			(show_name no)
@@ -16029,7 +16029,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 252.73 149.225 0)
 			(hide yes)
 			(show_name no)
@@ -16109,7 +16109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 224.79 149.225 0)
 			(hide yes)
 			(show_name no)
@@ -16189,7 +16189,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 182.88 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -16269,7 +16269,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 76.2 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -16349,7 +16349,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 224.79 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -16429,7 +16429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 118.11 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -16511,7 +16511,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 155.575 0)
 			(hide yes)
 			(show_name no)
@@ -16701,7 +16701,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 210.82 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -16783,7 +16783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -16975,7 +16975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 90.17 136.525 0)
 			(hide yes)
 			(show_name no)
@@ -17166,7 +17166,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 118.11 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -17356,7 +17356,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 62.23 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -17436,7 +17436,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 104.14 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -17516,7 +17516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 182.88 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -17596,7 +17596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 104.14 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -17676,7 +17676,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 76.2 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -17758,7 +17758,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 238.76 155.575 0)
 			(hide yes)
 			(show_name no)
@@ -17948,7 +17948,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 252.73 86.995 0)
 			(hide yes)
 			(show_name no)
@@ -18028,7 +18028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 252.73 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -18110,7 +18110,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 252.73 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -18302,7 +18302,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "digikey-footprints:Diode_DO-35_P10mm"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 224.79 155.575 0)
 			(hide yes)
 			(show_name no)
