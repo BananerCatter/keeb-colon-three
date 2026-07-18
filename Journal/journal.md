@@ -41,3 +41,10 @@ Started on the pcb, will finish layout+ add edge cuts+ route these following day
 
 Screenshot:
 ![](img/pcb_humble_beginnings.png)
+
+## 18/05/2026
+
+Honestly, most of this time was spent learning kicad in general, did almost all the pcb except for routing, now ensuring that everything is fine before completing the pcb.
+
+Screenshot: 
+![](img/pcb_almost_there.png)

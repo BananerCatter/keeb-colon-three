@@ -957,16 +957,22 @@
 		(uuid "02ba5afa-0c47-4356-92c3-fca2944bedd4")
 	)
 	(junction
-		(at 233.68 135.255)
+		(at 99.06 135.255)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "04b88241-9d86-4fff-8f91-4b902c45e78a")
+		(uuid "035695ca-0a7e-48b9-bd19-cf641d31b767")
 	)
 	(junction
 		(at 177.8 70.485)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0500d1a4-496e-4d5e-86e2-90c92b65f5be")
+	)
+	(junction
+		(at 201.93 163.195)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "064faa61-badc-444f-9f15-6c29224ea584")
 	)
 	(junction
 		(at 67.31 79.375)
@@ -1005,6 +1011,12 @@
 		(uuid "0ede3fb7-faaf-46f5-b5bd-0208cca49ed5")
 	)
 	(junction
+		(at 109.22 163.195)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13d63021-fbfb-4dd0-891e-87c83da39845")
+	)
+	(junction
 		(at 67.31 122.555)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1015,6 +1027,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1870f691-9b49-4b43-b848-def81a77c5b5")
+	)
+	(junction
+		(at 85.09 135.255)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a9da8e1-ac18-48ed-b9b2-7212d66961fe")
 	)
 	(junction
 		(at 123.19 144.145)
@@ -1035,28 +1053,22 @@
 		(uuid "1b986a18-1fc8-4c97-b6cb-63b1d313cb9b")
 	)
 	(junction
+		(at 113.03 135.255)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1bce35c0-ba29-4bf4-b8f4-5881eecd7780")
+	)
+	(junction
 		(at 229.87 79.375)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c6bd6b1-ea93-46ff-8c71-5b4088f06670")
 	)
 	(junction
-		(at 243.84 163.195)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d0ee0e9-27d8-40a2-8090-b080d99cdf59")
-	)
-	(junction
 		(at 215.9 144.145)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d2ae942-5b28-4926-b01c-e6d1a55ee069")
-	)
-	(junction
-		(at 57.15 135.255)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "225fb643-830b-48ec-a2d3-493849064715")
 	)
 	(junction
 		(at 85.09 92.075)
@@ -1069,12 +1081,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "239b22b8-8ff4-4000-839f-0b2b2168d8a5")
-	)
-	(junction
-		(at 67.31 163.195)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "27b7054a-9890-45c2-983b-35090b72ac74")
 	)
 	(junction
 		(at 187.96 122.555)
@@ -1131,12 +1137,6 @@
 		(uuid "37f132dd-1cb0-46b0-91ff-9d8c08ddb8c2")
 	)
 	(junction
-		(at 53.34 163.195)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "38493153-8de2-46c9-af38-ddb91e6c52cf")
-	)
-	(junction
 		(at 113.03 70.485)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1147,12 +1147,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b6b5471-f722-48c8-b606-d854c1d10d58")
-	)
-	(junction
-		(at 71.12 135.255)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3eec64a0-70dc-4ce0-a7e1-544c598dbebb")
 	)
 	(junction
 		(at 219.71 70.485)
@@ -1171,12 +1165,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43d12ba0-210e-40d1-a342-cc195b5b52bf")
-	)
-	(junction
-		(at 81.28 163.195)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "440694e9-2234-432a-bf3c-7032296d770e")
 	)
 	(junction
 		(at 81.28 144.145)
@@ -1221,12 +1209,6 @@
 		(uuid "5e6c7598-477b-44bb-a886-cc6bf96bd1eb")
 	)
 	(junction
-		(at 219.71 135.255)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60c59ccc-bfc9-465a-918f-4244aed6e3d7")
-	)
-	(junction
 		(at 187.96 100.965)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1257,6 +1239,12 @@
 		(uuid "73a4ffc4-e99a-4cd3-b30b-6d13833ebf16")
 	)
 	(junction
+		(at 177.8 135.255)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79501bc2-230d-43d0-814e-5956a7d632ad")
+	)
+	(junction
 		(at 67.31 100.965)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1275,10 +1263,22 @@
 		(uuid "8085efeb-4a7e-4aed-b646-d4ec4b53f662")
 	)
 	(junction
+		(at 187.96 163.195)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85023516-4dd9-444f-85e4-925aec9dfdd1")
+	)
+	(junction
 		(at 229.87 122.555)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "859a889a-74b9-487a-a284-268870f33fb2")
+	)
+	(junction
+		(at 205.74 135.255)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85edbe1d-95f7-4773-8831-bfb969f9ff29")
 	)
 	(junction
 		(at 229.87 100.965)
@@ -1317,16 +1317,16 @@
 		(uuid "9c897126-0d87-46f6-a1e7-0e4d08079aa2")
 	)
 	(junction
+		(at 123.19 163.195)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aaf78d06-f54d-47a2-9f33-a62ec4941d1f")
+	)
+	(junction
 		(at 215.9 79.375)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab379293-db86-41ad-af2d-d0f5e1cd8809")
-	)
-	(junction
-		(at 229.87 163.195)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab97c683-0766-4edf-969e-97fd0a9e5356")
 	)
 	(junction
 		(at 95.25 79.375)
@@ -1371,6 +1371,12 @@
 		(uuid "b910c69d-23ba-4ec9-a08f-d39815ec6788")
 	)
 	(junction
+		(at 95.25 163.195)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb88f23a-6f7c-4920-9827-d6a5dc163f11")
+	)
+	(junction
 		(at 95.25 100.965)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1381,12 +1387,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c37972c8-c7dc-4ecb-a7af-d546b3baa25b")
-	)
-	(junction
-		(at 43.18 135.255)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c4379b7f-3d6c-446e-8a0b-6ef97019b592")
 	)
 	(junction
 		(at 95.25 122.555)
@@ -1437,12 +1437,6 @@
 		(uuid "dc9e22eb-487e-4bb1-a692-1aa4ec1b2cda")
 	)
 	(junction
-		(at 247.65 135.255)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0bb36de-81cd-45c1-861a-302977ca487b")
-	)
-	(junction
 		(at 243.84 144.145)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1483,6 +1477,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f36cb161-7eb1-4847-9da8-56034a35b51d")
+	)
+	(junction
+		(at 191.77 135.255)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4e2d8db-c8f7-434d-a9f5-50c1d538f266")
 	)
 	(junction
 		(at 123.19 79.375)
@@ -1568,6 +1568,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 135.255) (xy 191.77 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c9af75f-3302-4a14-bda5-bc14722ab806")
+	)
+	(wire
+		(pts
 			(xy 43.18 113.665) (xy 43.18 135.255)
 		)
 		(stroke
@@ -1578,16 +1588,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 135.255) (xy 71.12 154.305)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f4b5514-4c5c-4a8c-bf58-52eac857651d")
-	)
-	(wire
-		(pts
 			(xy 95.25 92.075) (xy 95.25 93.345)
 		)
 		(stroke
@@ -1595,16 +1595,6 @@
 			(type default)
 		)
 		(uuid "10ad1a75-b875-489b-a191-7b368738b52f")
-	)
-	(wire
-		(pts
-			(xy 67.31 163.195) (xy 81.28 163.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16604063-f30d-48f7-b27b-eb51a0c0689a")
 	)
 	(wire
 		(pts
@@ -1648,6 +1638,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 163.195) (xy 215.9 163.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a9da15f-8df5-40e8-ba7c-8d0193314d6a")
+	)
+	(wire
+		(pts
 			(xy 113.03 92.075) (xy 113.03 113.665)
 		)
 		(stroke
@@ -1678,16 +1678,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 163.195) (xy 243.84 163.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fc871b8-b347-4453-90ee-4b874da294e4")
-	)
-	(wire
-		(pts
 			(xy 219.71 56.515) (xy 219.71 70.485)
 		)
 		(stroke
@@ -1695,6 +1685,16 @@
 			(type default)
 		)
 		(uuid "224540c0-a55f-4c5b-85e9-7c86624cfc30")
+	)
+	(wire
+		(pts
+			(xy 177.8 135.255) (xy 177.8 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "232d650f-b7c8-4418-b5fc-ecf139e4a9b4")
 	)
 	(wire
 		(pts
@@ -1898,16 +1898,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 163.195) (xy 229.87 163.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44459790-86e9-4c1c-b62d-de4380a5d333")
-	)
-	(wire
-		(pts
 			(xy 229.87 144.145) (xy 243.84 144.145)
 		)
 		(stroke
@@ -1995,6 +1985,16 @@
 			(type default)
 		)
 		(uuid "513cbeb6-2a64-4666-8874-119f86023680")
+	)
+	(wire
+		(pts
+			(xy 113.03 135.255) (xy 113.03 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "514abfc4-81f9-4f11-b149-23ba0279a468")
 	)
 	(wire
 		(pts
@@ -2118,6 +2118,16 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 163.195) (xy 109.22 163.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e537a3-9d49-4524-9af2-0ab3e6f56e4c")
+	)
+	(wire
+		(pts
 			(xy 99.06 113.665) (xy 99.06 135.255)
 		)
 		(stroke
@@ -2218,7 +2228,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 154.305) (xy 257.81 155.575)
+			(xy 215.9 154.305) (xy 215.9 155.575)
 		)
 		(stroke
 			(width 0)
@@ -2318,7 +2328,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 154.305) (xy 67.31 155.575)
+			(xy 109.22 154.305) (xy 109.22 155.575)
 		)
 		(stroke
 			(width 0)
@@ -2448,16 +2458,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 135.255) (xy 247.65 154.305)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88763eb7-c6f8-4ffb-9d7b-ac8277ae2c4c")
-	)
-	(wire
-		(pts
 			(xy 257.81 70.485) (xy 257.81 71.755)
 		)
 		(stroke
@@ -2485,6 +2485,16 @@
 			(type default)
 		)
 		(uuid "8d6bbb73-5810-4e8a-afa3-3745e98f7e17")
+	)
+	(wire
+		(pts
+			(xy 109.22 163.195) (xy 123.19 163.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e5951db-e531-45f6-939d-f2b38520d59b")
 	)
 	(wire
 		(pts
@@ -2525,16 +2535,6 @@
 			(type default)
 		)
 		(uuid "9022791d-835f-4ea9-8f55-2decb88fdafe")
-	)
-	(wire
-		(pts
-			(xy 43.18 135.255) (xy 43.18 154.305)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9034317a-3390-4ac0-94b3-092bf56e2ff0")
 	)
 	(wire
 		(pts
@@ -2598,16 +2598,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 135.255) (xy 57.15 154.305)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a4a6bae-2e72-4277-bf82-148fb41c4dc2")
-	)
-	(wire
-		(pts
 			(xy 57.15 56.515) (xy 57.15 70.485)
 		)
 		(stroke
@@ -2628,16 +2618,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 135.255) (xy 219.71 154.305)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9dc43848-054b-4a93-a8fa-75167e04c510")
-	)
-	(wire
-		(pts
 			(xy 215.9 79.375) (xy 229.87 79.375)
 		)
 		(stroke
@@ -2645,16 +2625,6 @@
 			(type default)
 		)
 		(uuid "9ff9b573-2bdd-4831-8caf-b4145f21ec1c")
-	)
-	(wire
-		(pts
-			(xy 53.34 163.195) (xy 67.31 163.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a12ab571-4213-48ef-a9c7-1bab5d380e85")
 	)
 	(wire
 		(pts
@@ -2668,17 +2638,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 163.195) (xy 257.81 163.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2c79503-d682-4c7d-9ef0-33fe83b00c90")
-	)
-	(wire
-		(pts
-			(xy 243.84 154.305) (xy 243.84 155.575)
+			(xy 201.93 154.305) (xy 201.93 155.575)
 		)
 		(stroke
 			(width 0)
@@ -2808,6 +2768,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 135.255) (xy 205.74 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b94eac68-5d05-426a-a058-c369cab09273")
+	)
+	(wire
+		(pts
 			(xy 67.31 113.665) (xy 67.31 114.935)
 		)
 		(stroke
@@ -2818,6 +2788,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 163.195) (xy 201.93 163.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb781d77-d1b6-479f-a5c9-bff1ed25af59")
+	)
+	(wire
+		(pts
 			(xy 247.65 92.075) (xy 247.65 113.665)
 		)
 		(stroke
@@ -2825,6 +2805,16 @@
 			(type default)
 		)
 		(uuid "bcb94d68-3588-415b-aaf4-5c1c935d7e70")
+	)
+	(wire
+		(pts
+			(xy 85.09 135.255) (xy 85.09 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc756ed-4727-42de-b241-84d18957d495")
 	)
 	(wire
 		(pts
@@ -2878,7 +2868,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 154.305) (xy 53.34 155.575)
+			(xy 95.25 154.305) (xy 95.25 155.575)
 		)
 		(stroke
 			(width 0)
@@ -2898,7 +2888,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 154.305) (xy 229.87 155.575)
+			(xy 187.96 154.305) (xy 187.96 155.575)
 		)
 		(stroke
 			(width 0)
@@ -2998,7 +2988,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 154.305) (xy 81.28 155.575)
+			(xy 123.19 154.305) (xy 123.19 155.575)
 		)
 		(stroke
 			(width 0)
@@ -3025,6 +3015,16 @@
 			(type default)
 		)
 		(uuid "e36de110-aecf-4fc6-b362-1743a9ccd656")
+	)
+	(wire
+		(pts
+			(xy 123.19 163.195) (xy 187.96 163.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5677688-30c3-41ec-980f-0e80c7d7029a")
 	)
 	(wire
 		(pts
@@ -3055,16 +3055,6 @@
 			(type default)
 		)
 		(uuid "e9b354e6-92d9-40ec-a972-aeee4f5385ef")
-	)
-	(wire
-		(pts
-			(xy 233.68 135.255) (xy 233.68 154.305)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eaab45a4-d531-4a8d-b85f-ec18a438bf9b")
 	)
 	(wire
 		(pts
@@ -3178,13 +3168,23 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 163.195) (xy 53.34 163.195)
+			(xy 34.29 163.195) (xy 95.25 163.195)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ff595f62-7e28-4905-826c-9d82bbac0c0f")
+	)
+	(wire
+		(pts
+			(xy 99.06 135.255) (xy 99.06 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff5e4320-eebf-4e23-83d7-de002427b241")
 	)
 	(hierarchical_label "COL_6"
 		(shape input)
@@ -3883,7 +3883,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 62.23 154.305 0)
+		(at 104.14 154.305 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3894,7 +3894,7 @@
 		(fields_autoplaced yes)
 		(uuid "097b68af-1282-48fe-9b5c-480542b213ed")
 		(property "Reference" "SW52"
-			(at 62.23 146.685 0)
+			(at 104.14 146.685 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3904,7 +3904,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 62.23 149.225 0)
+			(at 104.14 149.225 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3914,7 +3914,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 62.23 149.225 0)
+			(at 104.14 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3925,7 +3925,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 149.225 0)
+			(at 104.14 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3936,7 +3936,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 62.23 154.305 0)
+			(at 104.14 154.305 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5515,7 +5515,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 76.2 154.305 0)
+		(at 118.11 154.305 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5526,7 +5526,7 @@
 		(fields_autoplaced yes)
 		(uuid "22ac6fdb-5570-44ba-a239-e1f09c17d1ab")
 		(property "Reference" "SW53"
-			(at 76.2 146.685 0)
+			(at 118.11 146.685 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5536,7 +5536,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 76.2 149.225 0)
+			(at 118.11 149.225 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5546,7 +5546,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 76.2 149.225 0)
+			(at 118.11 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5557,7 +5557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 149.225 0)
+			(at 118.11 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5568,7 +5568,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 76.2 154.305 0)
+			(at 118.11 154.305 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7818,7 +7818,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 238.76 154.305 0)
+		(at 196.85 154.305 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7829,7 +7829,7 @@
 		(fields_autoplaced yes)
 		(uuid "53fa3ef4-cc8b-4d72-9749-f33fb5f6100c")
 		(property "Reference" "SW55"
-			(at 238.76 146.685 0)
+			(at 196.85 146.685 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7839,7 +7839,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 238.76 149.225 0)
+			(at 196.85 149.225 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7849,7 +7849,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 238.76 149.225 0)
+			(at 196.85 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7860,7 +7860,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 238.76 149.225 0)
+			(at 196.85 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7871,7 +7871,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 238.76 154.305 0)
+			(at 196.85 154.305 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8090,7 +8090,7 @@
 	)
 	(symbol
 		(lib_id "dk_Diodes-Rectifiers-Single:1N4148")
-		(at 81.28 160.655 90)
+		(at 123.19 160.655 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8101,7 +8101,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c13aa77-9379-487b-ac83-3a74d5259828")
 		(property "Reference" "D53"
-			(at 83.82 158.1149 90)
+			(at 125.73 158.1149 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8112,7 +8112,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 83.82 160.6549 90)
+			(at 125.73 160.6549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8123,7 +8123,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 76.2 155.575 0)
+			(at 118.11 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8135,7 +8135,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 73.66 155.575 0)
+			(at 115.57 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8147,7 +8147,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 100V 200MA DO35"
-			(at 81.28 160.655 0)
+			(at 123.19 160.655 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8158,7 +8158,7 @@
 			)
 		)
 		(property "Digi-Key_PN" "1N4148FS-ND"
-			(at 71.12 155.575 0)
+			(at 113.03 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8170,7 +8170,7 @@
 			)
 		)
 		(property "MPN" "1N4148"
-			(at 68.58 155.575 0)
+			(at 110.49 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8182,7 +8182,7 @@
 			)
 		)
 		(property "Category" "Discrete Semiconductor Products"
-			(at 66.04 155.575 0)
+			(at 107.95 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8194,7 +8194,7 @@
 			)
 		)
 		(property "Family" "Diodes - Rectifiers - Single"
-			(at 63.5 155.575 0)
+			(at 105.41 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8206,7 +8206,7 @@
 			)
 		)
 		(property "DK_Datasheet_Link" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 60.96 155.575 0)
+			(at 102.87 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8218,7 +8218,7 @@
 			)
 		)
 		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603"
-			(at 58.42 155.575 0)
+			(at 100.33 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8230,7 +8230,7 @@
 			)
 		)
 		(property "Description_1" "DIODE GEN PURP 100V 200MA DO35"
-			(at 55.88 155.575 0)
+			(at 97.79 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8242,7 +8242,7 @@
 			)
 		)
 		(property "Manufacturer" "ON Semiconductor"
-			(at 53.34 155.575 0)
+			(at 95.25 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8254,7 +8254,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 50.8 155.575 0)
+			(at 92.71 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11232,7 +11232,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 48.26 154.305 0)
+		(at 90.17 154.305 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11243,7 +11243,7 @@
 		(fields_autoplaced yes)
 		(uuid "8ede91d8-45d3-4a51-8a94-003ae09a0d5c")
 		(property "Reference" "SW51"
-			(at 48.26 146.685 0)
+			(at 90.17 146.685 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11253,7 +11253,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 48.26 149.225 0)
+			(at 90.17 149.225 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11263,7 +11263,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 48.26 149.225 0)
+			(at 90.17 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11274,7 +11274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 149.225 0)
+			(at 90.17 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11285,7 +11285,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 48.26 154.305 0)
+			(at 90.17 154.305 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15184,7 +15184,7 @@
 	)
 	(symbol
 		(lib_id "dk_Diodes-Rectifiers-Single:1N4148")
-		(at 67.31 160.655 90)
+		(at 109.22 160.655 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15195,7 +15195,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb8ddc96-00e5-4c94-9eac-e4b7a71b9176")
 		(property "Reference" "D52"
-			(at 69.85 158.1149 90)
+			(at 111.76 158.1149 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15206,7 +15206,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 69.85 160.6549 90)
+			(at 111.76 160.6549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15217,7 +15217,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 62.23 155.575 0)
+			(at 104.14 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15229,7 +15229,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 59.69 155.575 0)
+			(at 101.6 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15241,7 +15241,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 100V 200MA DO35"
-			(at 67.31 160.655 0)
+			(at 109.22 160.655 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15252,7 +15252,7 @@
 			)
 		)
 		(property "Digi-Key_PN" "1N4148FS-ND"
-			(at 57.15 155.575 0)
+			(at 99.06 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15264,7 +15264,7 @@
 			)
 		)
 		(property "MPN" "1N4148"
-			(at 54.61 155.575 0)
+			(at 96.52 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15276,7 +15276,7 @@
 			)
 		)
 		(property "Category" "Discrete Semiconductor Products"
-			(at 52.07 155.575 0)
+			(at 93.98 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15288,7 +15288,7 @@
 			)
 		)
 		(property "Family" "Diodes - Rectifiers - Single"
-			(at 49.53 155.575 0)
+			(at 91.44 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15300,7 +15300,7 @@
 			)
 		)
 		(property "DK_Datasheet_Link" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 46.99 155.575 0)
+			(at 88.9 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15312,7 +15312,7 @@
 			)
 		)
 		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603"
-			(at 44.45 155.575 0)
+			(at 86.36 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15324,7 +15324,7 @@
 			)
 		)
 		(property "Description_1" "DIODE GEN PURP 100V 200MA DO35"
-			(at 41.91 155.575 0)
+			(at 83.82 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15336,7 +15336,7 @@
 			)
 		)
 		(property "Manufacturer" "ON Semiconductor"
-			(at 39.37 155.575 0)
+			(at 81.28 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15348,7 +15348,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 36.83 155.575 0)
+			(at 78.74 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15807,7 +15807,7 @@
 	)
 	(symbol
 		(lib_id "dk_Diodes-Rectifiers-Single:1N4148")
-		(at 53.34 160.655 90)
+		(at 95.25 160.655 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15818,7 +15818,7 @@
 		(fields_autoplaced yes)
 		(uuid "d3527908-0ed5-4f6f-ac26-a72c336053a7")
 		(property "Reference" "D51"
-			(at 55.88 158.1149 90)
+			(at 97.79 158.1149 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15829,7 +15829,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 55.88 160.6549 90)
+			(at 97.79 160.6549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15840,7 +15840,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 48.26 155.575 0)
+			(at 90.17 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15852,7 +15852,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 45.72 155.575 0)
+			(at 87.63 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15864,7 +15864,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 100V 200MA DO35"
-			(at 53.34 160.655 0)
+			(at 95.25 160.655 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15875,7 +15875,7 @@
 			)
 		)
 		(property "Digi-Key_PN" "1N4148FS-ND"
-			(at 43.18 155.575 0)
+			(at 85.09 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15887,7 +15887,7 @@
 			)
 		)
 		(property "MPN" "1N4148"
-			(at 40.64 155.575 0)
+			(at 82.55 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15899,7 +15899,7 @@
 			)
 		)
 		(property "Category" "Discrete Semiconductor Products"
-			(at 38.1 155.575 0)
+			(at 80.01 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15911,7 +15911,7 @@
 			)
 		)
 		(property "Family" "Diodes - Rectifiers - Single"
-			(at 35.56 155.575 0)
+			(at 77.47 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15923,7 +15923,7 @@
 			)
 		)
 		(property "DK_Datasheet_Link" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 33.02 155.575 0)
+			(at 74.93 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15935,7 +15935,7 @@
 			)
 		)
 		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603"
-			(at 30.48 155.575 0)
+			(at 72.39 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15947,7 +15947,7 @@
 			)
 		)
 		(property "Description_1" "DIODE GEN PURP 100V 200MA DO35"
-			(at 27.94 155.575 0)
+			(at 69.85 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15959,7 +15959,7 @@
 			)
 		)
 		(property "Manufacturer" "ON Semiconductor"
-			(at 25.4 155.575 0)
+			(at 67.31 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15971,7 +15971,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 22.86 155.575 0)
+			(at 64.77 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15999,7 +15999,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 252.73 154.305 0)
+		(at 210.82 154.305 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16010,7 +16010,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5e8395f-4120-48a0-9087-d5f4340ecd53")
 		(property "Reference" "SW56"
-			(at 252.73 146.685 0)
+			(at 210.82 146.685 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16020,7 +16020,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 252.73 149.225 0)
+			(at 210.82 149.225 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16030,7 +16030,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 252.73 149.225 0)
+			(at 210.82 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16041,7 +16041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 252.73 149.225 0)
+			(at 210.82 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16052,7 +16052,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 252.73 154.305 0)
+			(at 210.82 154.305 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16079,7 +16079,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 224.79 154.305 0)
+		(at 182.88 154.305 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16090,7 +16090,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7a6d536-d689-473b-9049-51170101eb30")
 		(property "Reference" "SW54"
-			(at 224.79 146.685 0)
+			(at 182.88 146.685 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16100,7 +16100,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 224.79 149.225 0)
+			(at 182.88 149.225 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16110,7 +16110,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 224.79 149.225 0)
+			(at 182.88 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16121,7 +16121,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 149.225 0)
+			(at 182.88 149.225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16132,7 +16132,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 224.79 154.305 0)
+			(at 182.88 154.305 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16479,7 +16479,7 @@
 	)
 	(symbol
 		(lib_id "dk_Diodes-Rectifiers-Single:1N4148")
-		(at 257.81 160.655 90)
+		(at 215.9 160.655 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16490,7 +16490,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5bc0b35-a1c7-491e-965b-9c6bbcbc47bc")
 		(property "Reference" "D56"
-			(at 260.35 158.1149 90)
+			(at 218.44 158.1149 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16501,7 +16501,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 260.35 160.6549 90)
+			(at 218.44 160.6549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16512,7 +16512,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 252.73 155.575 0)
+			(at 210.82 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16524,7 +16524,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 250.19 155.575 0)
+			(at 208.28 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16536,7 +16536,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 100V 200MA DO35"
-			(at 257.81 160.655 0)
+			(at 215.9 160.655 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16547,7 +16547,7 @@
 			)
 		)
 		(property "Digi-Key_PN" "1N4148FS-ND"
-			(at 247.65 155.575 0)
+			(at 205.74 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16559,7 +16559,7 @@
 			)
 		)
 		(property "MPN" "1N4148"
-			(at 245.11 155.575 0)
+			(at 203.2 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16571,7 +16571,7 @@
 			)
 		)
 		(property "Category" "Discrete Semiconductor Products"
-			(at 242.57 155.575 0)
+			(at 200.66 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16583,7 +16583,7 @@
 			)
 		)
 		(property "Family" "Diodes - Rectifiers - Single"
-			(at 240.03 155.575 0)
+			(at 198.12 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16595,7 +16595,7 @@
 			)
 		)
 		(property "DK_Datasheet_Link" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 237.49 155.575 0)
+			(at 195.58 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16607,7 +16607,7 @@
 			)
 		)
 		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603"
-			(at 234.95 155.575 0)
+			(at 193.04 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16619,7 +16619,7 @@
 			)
 		)
 		(property "Description_1" "DIODE GEN PURP 100V 200MA DO35"
-			(at 232.41 155.575 0)
+			(at 190.5 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16631,7 +16631,7 @@
 			)
 		)
 		(property "Manufacturer" "ON Semiconductor"
-			(at 229.87 155.575 0)
+			(at 187.96 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16643,7 +16643,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 227.33 155.575 0)
+			(at 185.42 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17726,7 +17726,7 @@
 	)
 	(symbol
 		(lib_id "dk_Diodes-Rectifiers-Single:1N4148")
-		(at 243.84 160.655 90)
+		(at 201.93 160.655 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17737,7 +17737,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6e29622-5008-4733-a72a-cbf16a569abe")
 		(property "Reference" "D55"
-			(at 246.38 158.1149 90)
+			(at 204.47 158.1149 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17748,7 +17748,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 246.38 160.6549 90)
+			(at 204.47 160.6549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17759,7 +17759,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 238.76 155.575 0)
+			(at 196.85 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17771,7 +17771,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 236.22 155.575 0)
+			(at 194.31 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17783,7 +17783,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 100V 200MA DO35"
-			(at 243.84 160.655 0)
+			(at 201.93 160.655 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17794,7 +17794,7 @@
 			)
 		)
 		(property "Digi-Key_PN" "1N4148FS-ND"
-			(at 233.68 155.575 0)
+			(at 191.77 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17806,7 +17806,7 @@
 			)
 		)
 		(property "MPN" "1N4148"
-			(at 231.14 155.575 0)
+			(at 189.23 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17818,7 +17818,7 @@
 			)
 		)
 		(property "Category" "Discrete Semiconductor Products"
-			(at 228.6 155.575 0)
+			(at 186.69 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17830,7 +17830,7 @@
 			)
 		)
 		(property "Family" "Diodes - Rectifiers - Single"
-			(at 226.06 155.575 0)
+			(at 184.15 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17842,7 +17842,7 @@
 			)
 		)
 		(property "DK_Datasheet_Link" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 223.52 155.575 0)
+			(at 181.61 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17854,7 +17854,7 @@
 			)
 		)
 		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603"
-			(at 220.98 155.575 0)
+			(at 179.07 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17866,7 +17866,7 @@
 			)
 		)
 		(property "Description_1" "DIODE GEN PURP 100V 200MA DO35"
-			(at 218.44 155.575 0)
+			(at 176.53 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17878,7 +17878,7 @@
 			)
 		)
 		(property "Manufacturer" "ON Semiconductor"
-			(at 215.9 155.575 0)
+			(at 173.99 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17890,7 +17890,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 213.36 155.575 0)
+			(at 171.45 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18270,7 +18270,7 @@
 	)
 	(symbol
 		(lib_id "dk_Diodes-Rectifiers-Single:1N4148")
-		(at 229.87 160.655 90)
+		(at 187.96 160.655 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18281,7 +18281,7 @@
 		(fields_autoplaced yes)
 		(uuid "ffcb6ed4-9734-4d0e-a525-04765db2f66b")
 		(property "Reference" "D54"
-			(at 231.775 158.1149 90)
+			(at 189.865 158.1149 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18292,7 +18292,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 231.775 160.6549 90)
+			(at 189.865 160.6549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18303,7 +18303,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 224.79 155.575 0)
+			(at 182.88 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18315,7 +18315,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 222.25 155.575 0)
+			(at 180.34 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18327,7 +18327,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 100V 200MA DO35"
-			(at 229.87 160.655 0)
+			(at 187.96 160.655 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18338,7 +18338,7 @@
 			)
 		)
 		(property "Digi-Key_PN" "1N4148FS-ND"
-			(at 219.71 155.575 0)
+			(at 177.8 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18350,7 +18350,7 @@
 			)
 		)
 		(property "MPN" "1N4148"
-			(at 217.17 155.575 0)
+			(at 175.26 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18362,7 +18362,7 @@
 			)
 		)
 		(property "Category" "Discrete Semiconductor Products"
-			(at 214.63 155.575 0)
+			(at 172.72 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18374,7 +18374,7 @@
 			)
 		)
 		(property "Family" "Diodes - Rectifiers - Single"
-			(at 212.09 155.575 0)
+			(at 170.18 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18386,7 +18386,7 @@
 			)
 		)
 		(property "DK_Datasheet_Link" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
-			(at 209.55 155.575 0)
+			(at 167.64 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18398,7 +18398,7 @@
 			)
 		)
 		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603"
-			(at 207.01 155.575 0)
+			(at 165.1 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18410,7 +18410,7 @@
 			)
 		)
 		(property "Description_1" "DIODE GEN PURP 100V 200MA DO35"
-			(at 204.47 155.575 0)
+			(at 162.56 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18422,7 +18422,7 @@
 			)
 		)
 		(property "Manufacturer" "ON Semiconductor"
-			(at 201.93 155.575 0)
+			(at 160.02 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18434,7 +18434,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 199.39 155.575 0)
+			(at 157.48 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -645,13 +645,30 @@
       {
         "filename": "keeb.kicad_sch",
         "name": "keeb",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "616400a8-c028-4d1b-bedc-b9aa63c43c10"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "616400a8-c028-4d1b-bedc-b9aa63c43c10",
+      "keeb"
+    ],
+    [
+      "762888fb-04c3-4246-b67c-ad1e137b013b",
+      "LED_MATRIX_LEFT"
+    ],
+    [
+      "898cb191-e761-44e4-85cc-feb2b69be915",
+      "LED_MATRIX_RIGHT"
+    ],
+    [
+      "9da29080-285e-407e-a53c-ba10a9b06c66",
+      "KEY_MATRIX"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
