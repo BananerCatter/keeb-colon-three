@@ -42,9 +42,15 @@ Started on the pcb, will finish layout+ add edge cuts+ route these following day
 Screenshot:
 ![](img/pcb_humble_beginnings.png)
 
-## 18/05/2026
+## 18/07/2026
 
 Honestly, most of this time was spent learning kicad in general, did almost all the pcb except for routing, now ensuring that everything is fine before completing the pcb.
 
 Screenshot: 
 ![](img/pcb_almost_there.png)
+
+## 19/07/2026
+First time routing a pcb, hopefully not as bad as it looks! Keyboard matrix is done, now I have to supply power and ground to the rgb circuitry.
+
+Screenshot:
+![](img/pcb_switches_routed.png)
