@@ -54,3 +54,9 @@ First time routing a pcb, hopefully not as bad as it looks! Keyboard matrix is d
 
 Screenshot:
 ![](img/pcb_switches_routed.png)
+
+## 21/07/2026
+I honestly feel defeated, but maybe I'll regain my clarity tomorrow. Routing is....kinda bad, and I don't think I can avoid using 4 layers, but maybe that's just the tiredness speaking. Idk what possesed me to make this my first pcb but I shall persist.
+
+Screenshot: 
+![](img/Dear_God.png)
