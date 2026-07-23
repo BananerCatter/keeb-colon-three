@@ -60,3 +60,11 @@ I honestly feel defeated, but maybe I'll regain my clarity tomorrow. Routing is.
 
 Screenshot: 
 ![](img/Dear_God.png)
+
+## 23/07/2026
+PCB is done. Tracks are ~very~ kinda ugly, but it is my first keyboard so. Also added some stuff on the skilscreen.
+
+Screenshots:
+![](img/pcb_done_silkscreen.png)
+![](img/pcb_done_no_silk.png)
+
