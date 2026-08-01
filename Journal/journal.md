@@ -68,3 +68,15 @@ Screenshots:
 ![](img/pcb_done_silkscreen.png)
 ![](img/pcb_done_no_silk.png)
 
+## Note: I will be away from home until 31/07/2026, so probably no updates until August, unless I decide to talk about my orders. Also ordered my pcb, will post pics once it arrives :D
+
+## 01/08/2026
+I'm back! Started working on the case now! From now on, I'll also post the time at which I'll start and stop working, to make it easier for the reviewer to estimate my time spent on this project. All time stamps are at **UTC+3 EEST**
+
+*For all previous commits, assume around 2-3 hours of actual work and another 2-3 hours of learning how kicad works :P* 
+
+**17:30** Started making the base of the keeb.
+
+**19:01** Made the baseplate, will add screwmounts after a (hopefully not that long) break.
+Screenshot:
+![](img/baseplate.png)
