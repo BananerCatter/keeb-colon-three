@@ -73,10 +73,21 @@ Screenshots:
 ## 01/08/2026
 I'm back! Started working on the case now! From now on, I'll also post the time at which I'll start and stop working, to make it easier for the reviewer to estimate my time spent on this project. All time stamps are at **UTC+3 EEST**
 
-*For all previous commits, assume around 2-3 hours of actual work and another 2-3 hours of learning how kicad works :P* 
+*For all previous commits, assume around 1-3 hours of actual work and another 2-3 hours of learning how kicad works :P* 
 
 **17:30** Started making the base of the keeb.
 
 **19:01** Made the baseplate, will add screwmounts after a (hopefully not that long) break.
 Screenshot:
 ![](img/baseplate.png)
+
+## 02/08/2026
+Started at **15:15**, finishing the baseplate
+
+**15:57** Added cylinders for heat set inserts.
+
+**16:33** Added walls and a hole for the usb port.
+
+Screenshots:
+![](img/base_inserts.png)
+![](img/walls_port.png) 
