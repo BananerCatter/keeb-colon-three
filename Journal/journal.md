@@ -91,3 +91,18 @@ Started at **15:15**, finishing the baseplate
 Screenshots:
 ![](img/base_inserts.png)
 ![](img/walls_port.png) 
+
+## 03/08/2026
+Started at **15:33**, making the plate. Now, how am i supposed to make the holes for the switches with a layout like mine....
+
+**16:49**: Yeah I still have no idea how to do this part tbh... might be stuck here for a while :P Also, one of the stabilizers is on backwards, as in the depths of my foolishness, I had ordered the pcb before applying for a grant and have no money to repair my mistake. Oh well, my already existing keyboard has no stabs for it's 2u keys so i guess it's fine.... :(
+
+**16:59**: I might be able to do something with the svg export, hmm.
+
+**18:56**: Ok, so, i did it! The way I did it was exporting the F.Courtyard layer as an svg, converting to a dxf, importing that dxf as a sketch, making a new sketch based only on the lines I need (edge cuts, witch, screw mount, rotary encoder and oled holes), and only then, FINALLY extruding it. Also realized I need to make the walls thinner, brb.
+
+**19:15**: Thinned out the walls, I'll clean up the model later today or tomorrow, so that I can get a nice screenshot for my readme. Also need to make an actual good readme file :P
+
+Screenshot: 
+![](img/done_i_hope.png)
+
