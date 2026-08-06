@@ -2,6 +2,8 @@
 
 ### This file will contain dated images and screenshots of my work, alongside my current thoughts on the project. Please don't mind any spelling/grammar errors I may make, I'll probably correct them as I go. 
 
+#### *For all KiCAD related commits, I forgot to track my time, but it's safe to assume around 2-3 hours of actual work and another 1-2 hours of fighting with KiCAD :P I will give a more accurate estimate if I clearly remember something taking a looot of time* 
+
 ## 06/07/2026
 Hehe 67. I made around 80% of the keyboard layout schematic, will complete and add LEDs and an oled tomorrow, but I just HAD to log something on 06/07.
 
@@ -30,7 +32,7 @@ Screenshots:
 So, last week was cooked :P. Schematic is done, unless I or someone else find some flaw within it. PCB should be done...sometime in the near future.
 
 Screenshot:
-![](schematic_full_v1.png)
+![](img/schematic_full_v1.png)
 
 ## 15/07/2026
 Added footprints, not much to screenshot tbh
@@ -43,13 +45,19 @@ Screenshot:
 ![](img/pcb_humble_beginnings.png)
 
 ## 18/07/2026
+Est: == 4.5~5.5 hours ==
 
 Honestly, most of this time was spent learning kicad in general, did almost all the pcb except for routing, now ensuring that everything is fine before completing the pcb.
+
+**06/08** Update: Somehow completely glossed over these things but:
+* Edge cuts were dore manually, and painstakingly. Those most definitely took the most time. 
+* ==R== and ==Shift+R== were rebound to rotate +15 and -15 deg. respectively
 
 Screenshot: 
 ![](img/pcb_almost_there.png)
 
 ## 19/07/2026
+Est: == 3.5 hours ==
 First time routing a pcb, hopefully not as bad as it looks! Keyboard matrix is done, now I have to supply power and ground to the rgb circuitry.
 
 Screenshot:
@@ -62,6 +70,7 @@ Screenshot:
 ![](img/Dear_God.png)
 
 ## 23/07/2026
+Est: == 5 hours == 
 PCB is done. Tracks are ~very~ kinda ugly, but it is my first keyboard so. Also added some stuff on the skilscreen.
 
 Screenshots:
@@ -73,7 +82,6 @@ Screenshots:
 ## 01/08/2026
 I'm back! Started working on the case now! From now on, I'll also post the time at which I'll start and stop working, to make it easier for the reviewer to estimate my time spent on this project. All time stamps are at **UTC+3 EEST**
 
-*For all previous commits, assume around 1-3 hours of actual work and another 2-3 hours of learning how kicad works :P* 
 
 **17:30** Started making the base of the keeb.
 
@@ -106,3 +114,17 @@ Started at **15:33**, making the plate. Now, how am i supposed to make the holes
 Screenshot: 
 ![](img/done_i_hope.png)
 
+## 05/08/2026
+Starting at **18:47**, doing some cleanup. Also, forgot to log this but I raised the case walls yesterday so that they now peek above the plate. Removed stabilizers from pcb and schematic, as they will not be used in my finalized keyboard.  
+
+Screenshot:
+![](img/stabs_begone.png)
+
+## 06/08/2026
+Starting at **9:40**
+
+Had to leave after like an hour of work yesterday, whoops :P. Making a more presentable model for the readme file, finishing the case model, awaiting feedback on my journal and case/plate models, and fixing mistakes in my journal, such as missing images, or comments that I wrote down but did not add to my journal. Also added time estimates to a few commits.
+
+The first ever screenshot does seem to be permanently gone tho :(. If everything goes right, I might be able to finally submit my keeb!!!.
+
+Also, the PCBs arrived two days ago, no pictures because I'm not unsealing them until I get the rest of the parts.
