@@ -36,6 +36,7 @@ bspc a s d f g 	 		h j k l ; '
 lctl z x c v b 	 		n m , . slsh rctl
 	 lsft l_alt spc 	rwin ropt TT(1)
 """
+encoders = [["AudioVolUp", "AudioVolDown"]]
 
 [[layer]]
 name= "mod"
@@ -46,3 +47,13 @@ No No No No No No 		Left Down Up Right [ ]
 _ ms_left ms_down ms_up ms_right ms_btn1		ms_btn2 ms_btn3 ms_whlu ms_whld _ _
 volu mute vold		mnxt mprv mstp 
 """
+encoders = [["PageDown", "PageUp"]]
+
+[[input_device.encoder]]
+pin_a = "PIN_15"
+pin_b = "PIN_18"
+
+internal_pullup=true
+phase="resolution"
+resolution = 2
+reverse = false
