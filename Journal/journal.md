@@ -45,33 +45,35 @@ Screenshot:
 ![](img/pcb_humble_beginnings.png)
 
 ## 18/07/2026
-Est: == 4.5~5.5 hours ==
+Est: <mark> 4.5~5.5 hours </mark>
 
 Honestly, most of this time was spent learning kicad in general, did almost all the pcb except for routing, now ensuring that everything is fine before completing the pcb.
 
 **06/08** Update: Somehow completely glossed over these things but:
-* Edge cuts were dore manually, and painstakingly. Those most definitely took the most time. 
-* ==R== and ==Shift+R== were rebound to rotate +15 and -15 deg. respectively
+* Edge cuts were done manually, and painstakingly. Those most definitely took the most time. 
+* <mark>R</mark> and <mark>Shift+R</mark> were rebound to rotate +15 and -15 deg. respectively
 
 Screenshot: 
 ![](img/pcb_almost_there.png)
 
 ## 19/07/2026
-Est: == 3.5 hours ==
+Est: <mark> 3.5 hours </mark>
 First time routing a pcb, hopefully not as bad as it looks! Keyboard matrix is done, now I have to supply power and ground to the rgb circuitry.
 
 Screenshot:
 ![](img/pcb_switches_routed.png)
 
 ## 21/07/2026
+
+Est: <mark> 4 hours </mark>
 I honestly feel defeated, but maybe I'll regain my clarity tomorrow. Routing is....kinda bad, and I don't think I can avoid using 4 layers, but maybe that's just the tiredness speaking. Idk what possesed me to make this my first pcb but I shall persist.
 
 Screenshot: 
 ![](img/Dear_God.png)
 
 ## 23/07/2026
-Est: == 5 hours == 
-PCB is done. Tracks are ~very~ kinda ugly, but it is my first keyboard so. Also added some stuff on the skilscreen.
+Est: <mark> 5 hours </mark> 
+PCB is done. Tracks are ~very~ kinda ugly, but it is my first keyboard so. Also added some stuff on the silkscreen.
 
 Screenshots:
 ![](img/pcb_done_silkscreen.png)
