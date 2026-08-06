@@ -148,4 +148,18 @@ Took a break, restarted at **16:00**
 * Uploaded step models to the repo
 * Finishing up for project submission (!!!!)
 
-### This is my final commit before submitting. For whoever cares, I will continue to journal my build process once I get the grant and all of the parts :) 
+### ~This is my final commit before submitting. For whoever cares, I will continue to journal my build process once I get the grant and all of the parts :)~
+
+**18:42**
+Guess we making firmware now
+
+Also, I only have 54 keys, where did I get 56 from lmao
+
+**19:15**
+Aaaaand the rotary encoder has the EXACT same row and column as another key, so I either reorder the pcb and take the L, live without a push button , or bind mute/unmute to some key in the thumb row. AARGHHHHHHHH 
+
+**20:15**
+Finished a basic keymap, not final, as i obviously....do not have the keyboard to try it out on. Also gave the rotary encoder a "job" to do.
+
+**20:35**
+Yeah, probably not adding rgb and oled support until I receive the parts and solder everything, gotta make sure the firmware at the very least functions before going into uncharted territory. I guess this is it then... gotta correct the readme then I'm good to go!

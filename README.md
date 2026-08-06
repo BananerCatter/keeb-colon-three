@@ -1,13 +1,14 @@
 # keeb-colon-three 
-A fully custom 56-key mechanical keyboard, designed from the ground up, including: PCB, case, plate (No assembly yet, and, as such, no firmware either). This project was built to learn the entire keyboard design process, as well as to familiarize myself with the neccesary tools and software.
+A fully custom 56-key mechanical keyboard, designed from the ground up, including: PCB, case, plate, firmware (No assembly yet). This project was built to learn the entire keyboard design process, as well as to familiarize myself with the necessary tools and software.
 
 ## Features:
-* 56 key custom ergonomic layout
+* 54 key custom ergonomic layout
 * MX compatible switches
 * Per Key RGB
 * Rotary Encoder
 * 3D printed tray mount case and plate
 * 128x32 OLED display
+* RMK firmware
 
 ![](Journal/img/war_is_over.png)
 ![](Journal/img/pcb_final.png)
@@ -17,10 +18,12 @@ Depending on when in the design process I'd ask myself this, I'd get fairly diff
 
 I want to build something meaningful myself. 
 
-This project has given me the opportunity to refine my pcb design, and to learn CAD modelling, manufacturing, and soon enough, soldering (especially tiny smd components, such as the LEDs and caps) and firmware configuration.
+This project has given me the opportunity to refine my pcb design, and to learn CAD modelling, manufacturing, firmware configuration, and soon enough, soldering (especially tiny smd components, such as the LEDs and caps) 
 
 ## Design Process
 The project began quite simple, being a basic 60% keyboard. However, it soon devolved into a split layout (kinda) ergonomic keyboard, featuring rgb, an ec11 and a display module. I designed the PCB in kicad, and routed everything myself, adding a ground copper fill at the end. After that, I designed a relatively simple tray mount case around the PCB, and a plate traced over the F.Courtyard layer of the board.
+
+Firmware was make in rmk, only has layouts and rotary encoder support for now.
 
 ## Components
 * Custom PCB
@@ -49,9 +52,10 @@ What I've learned:
 * Basic CAD skills
 * How to not lose focus on longer projects
 * Miscellaneous KiCAD-related skills.
+* Firmware configuration and design.
+* A bit of rust :P
 
 What I will learn, once (if) I receive a grant and obtain everything needed for the completed keeb:
 
 * Soldering tiny components
-* Firmware configuration and design.
-* A bit of rust :P
+* Even more patience
