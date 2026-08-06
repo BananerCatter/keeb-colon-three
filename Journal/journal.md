@@ -130,3 +130,22 @@ Had to leave after like an hour of work yesterday, whoops :P. Making a more pres
 The first ever screenshot does seem to be permanently gone tho :(. If everything goes right, I might be able to finally submit my keeb!!!.
 
 Also, the PCBs arrived two days ago, no pictures because I'm not unsealing them until I get the rest of the parts.
+
+**12:25**
+* Finished cleaning up the journal.
+* Finished the case and plate
+* Finished clening up the pcb model.
+
+Screenshot:
+![](img/war_is_over.png)
+
+Took a break, restarted at **16:00**
+
+**17:14**
+
+* Writing this very journal entry!
+* Made my readme
+* Uploaded step models to the repo
+* Finishing up for project submission (!!!!)
+
+### This is my final commit before submitting. For whoever cares, I will continue to journal my build process once I get the grant and all of the parts :) 
